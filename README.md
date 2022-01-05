@@ -17,5 +17,6 @@ CCTV-1综合,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725
 
 # EGP节目清单
 DIYP接口1：https://epg.112114.xyz/
+
 DIYP接口2：http://epg.51zmt.top:8000/api/diyp/ 
 
