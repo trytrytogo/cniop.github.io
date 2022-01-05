@@ -17,6 +17,8 @@ CCTV-1综合,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725
 
 # DIYP接口：
 https://cniop.github.io/diy.txt
+http://gg.gg/xg82w
+http://gg.gg/ggiop
 
 
 # EGP节目清单
