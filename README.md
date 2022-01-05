@@ -1,7 +1,6 @@
 # iptv直播源收集
 
-# diyp直播源格式说明
-diyp直播源支持分组和密码设置
+# diyp直播源支持分组和密码设置
 
 分组格式如：央视频道,#genre#
 
@@ -17,5 +16,6 @@ diyp直播源支持分组和密码设置
 CCTV-1综合,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8$8M1080P#http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8$4M1080P
 
 # EGP节目清单
+DIYP接口1：https://epg.112114.xyz/
+DIYP接口2：http://epg.51zmt.top:8000/api/diyp/ 
 
-http://epg.51zmt.top:8000/
