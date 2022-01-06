@@ -39,8 +39,6 @@ https://epg.112114.xyz/
 
 DIYP EGP接口2：
 
-
-
 http://gg.gg/113112
 
 http://epg.51zmt.top:8000/api/diyp/ 
@@ -60,6 +58,9 @@ https://cniop.github.io/cat.json
 官方维护的源供参考:
 
 2022/1/5更新接口
+
+适合2.0.8内测版本，
+修复了南府追剧源
 https://c1n.cn/2
 
 http://gg.gg/898900
