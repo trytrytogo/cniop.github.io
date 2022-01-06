@@ -1,5 +1,5 @@
 {
-    "spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+    "spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt;md5;72f1f8a0d8dd9ba2ab567fc3496896bb",
     "name":"Json轮询",
     "type":2,
     "url":"Sequence",
@@ -263,6 +263,7 @@
 		{"key":"优酷视频","name":"优酷视频(三零资源)","type":0,"api":"http://api.000zy.com/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0}
 	],
     "parses":[
+	    {"name":"Json轮询","type":2,"url":"Sequence"},
     	{"name":"60解析","type":0,"url":"http://60jx.com/?url="},
     	{"name":"人人迷","type":1,"url":"https://jx.renrenmi.cc/?url="},
     	{"name":"M3U8","url":"https://jx.m3u8.tv/jiexi/?url="},
@@ -281,6 +282,7 @@
     	{"name":"1717云","url":"https://www.1717yun.com/jx/ty.php?url="},
     	{"name":"m3u8弹","type":1,"url":"https://dmjx.m3u8.tv/?url="},
     	{"name":"天空影视","type":1,"url":"https://cache.tkys.tv/jh/?url="},
+	{"name":"云解析","type":0,"url":"https://jx.ppflv.com/?url="},
     	{"name":"人人迷1","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=fI3YQ3vxF5uREfNpDU&url=","t":204,"i":"checkat2021-12-30"},
     	{"name":"人人迷2","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=82KErJogweliHPt7Yp&url=","t":235,"i":"checkat2021-12-30"},
     	{"name":"人人迷3","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=mmh63jk67yRHfWc8lE&url=","t":564,"i":"checkat2021-12-30"},
