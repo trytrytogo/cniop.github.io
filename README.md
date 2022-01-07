@@ -23,7 +23,10 @@ http://gg.gg/ggiop
 
 https://cniop.github.io/diy.txt
 
+加速接口地址（推荐） ：
 
+https://dlj.li/hopgvs
+https://raw.fastgit.org/cniop/cniop.github.io/main/diy.txt
 
 
 
@@ -48,6 +51,12 @@ http://epg.51zmt.top:8000/api/diyp/
 https://sharerw.lanzoux.com/b0afu5apg
 
 接口地址：
+
+
+https://cdn.jsdelivr.net/gh/cniop/cniop.github.io@main/cat.json
+
+https://raw.fastgit.org/cniop/cniop.github.io/main/cat.json
+
 
 http://gg.gg/catvodd  (好记)
 
