@@ -21,11 +21,12 @@ http://gg.gg/diyppp （比较好记）
 
 http://gg.gg/ggiop
 
-https://cniop.github.io/diy.txt
+https://cniop.github.io/diy.txt    (永久)
 
 加速接口地址（推荐） ：
 
 https://dlj.li/hopgvs
+
 https://raw.fastgit.org/cniop/cniop.github.io/main/diy.txt
 
 
@@ -62,7 +63,7 @@ http://gg.gg/catvodd  (好记)
 
 http://gg.gg/catuio   （输入较方便）
 
-https://cniop.github.io/cat.json
+https://cniop.github.io/cat.json  (永久)
 
 官方维护的源供参考:
 
