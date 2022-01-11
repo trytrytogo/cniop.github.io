@@ -1553,17 +1553,18 @@
                 {"name":"Star Sports","urls":[
                         "http://iptv.tvfix.org/hls/starsports.m3u8"
                     ]},
-                {"name":"CHC動作電影","urls":[
+                {"name":"CHC动作电影","urls":[
                         "http://iptv.tvfix.org/hls/chcatv.m3u8"
                     ]},
-                {"name":"CHC家庭電影","urls":[
+                {"name":"CHC家庭电影","urls":[
                         "http://iptv.tvfix.org/hls/chctv.m3u8"
                     ]},
                  {"name":"美亚电影台","urls":[
                         "http://iptv.tvfix.org/hls/mydy2.m3u8",
                         "http://iptv.tvfix.org/hls/mydy.m3u8",
                         "http://iptv.tvfix.org/hls/mydy_v.m3u8",
-                        "http://iptv.tvfix.org/hls/mydy_a2.m3u8"                        
+                        "http://iptv.tvfix.org/hls/mydy_a2.m3u8"
+                        
                     ]},
                 {"name":"天映频道","urls":["http://iptv.tvfix.org/hls/typd2.m3u8","http://iptv.tvfix.org/hls/typd.m3u8"]},
                 {"name":"天映经典","urls":[
@@ -1574,10 +1575,13 @@
                         "http://iptv.tvfix.org/hls/animax2.m3u8",
                         "http://iptv.tvfix.org/hls/animax.m3u8"
                     ]},
-                {"name":"翡翠台(第2声道简体)","urls":[
+                {"name":"翡翠台","urls":[                        
+                        "http://iptv.tvfix.org/hls/jadenhk2.m3u8",
+                        "http://iptv.tvfix.org/hls/jadenhk.m3u8"
+                    ]},
+                {"name":"翡翠台海外","urls":[
                         "http://iptv.tvfix.org/hls/jade2.m3u8",
-                        "http://iptv.tvfix.org/hls/jadenhk.m3u8",
-                        "http://iptv.tvfix.org/hls/jadenhk2.m3u8"
+                        "http://iptv.tvfix.org/hls/jade.m3u8"
                     ]},
 
                 {"name":"J2","urls":[
@@ -1615,11 +1619,11 @@
                 {"name":"TVB为食台","urls":[
                         "http://iptv.tvfix.org/hls/tvbws.m3u8"
                     ]},
-                {"name":"TVB星河(粤语)","urls":[
+                {"name":"TVB星河","urls":[
                         "http://iptv.tvfix.org/hls/tvbxh2.m3u8",
                         "http://iptv.tvfix.org/hls/tvbxh.m3u8"
                     ]},
-                {"name":"TVB功夫台(粤语)","urls":[
+                {"name":"TVB功夫台","urls":[
                         "http://iptv.tvfix.org/hls/tvbkf2.m3u8",
                         "http://iptv.tvfix.org/hls/tvbkf.m3u8"
                     ]},
