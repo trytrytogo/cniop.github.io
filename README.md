@@ -82,11 +82,13 @@ http://gg.gg/898900
 http://gg.gg/123365
 
 ================================================
+
 文件格式及属性说明如下：
 
 #EXTM3U x-tvg-url="定义节目清单xml网址,多个网址之间使用逗号分隔"
 
-#EXTINF:-1 tvg-id="cctv1与目清单相匹配" tvg-country="国家" tvg-language="语言" tvg-logo="台标url" group-title="分组名",CCTV-1综合（显示的频道名称）
+#EXTINF:-1 tvg-id="cctv1与目清单相匹配" tvg-country="国家" tvg-language="语言" tvg-logo="台标url" group-title="分组名",CCTV-1综合
+
 http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
 
 注意：可以在文件头一次性配制多个节目清单源，也可以为每个频道单独配制节目源地址。
