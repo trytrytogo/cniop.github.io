@@ -42,6 +42,14 @@ http://gg.gg/112114  （输入较方便）
 
 https://epg.112114.xyz/
 
+运行状态查询
+
+https://epg.112114.xyz/status
+
+自定义名字,检测到恶意提交永久封锁ip
+
+https://epg.112114.xyz/alias
+
 DIYP EGP接口2：
 
 http://gg.gg/113112
