@@ -63,16 +63,11 @@ https://sharerw.lanzoux.com/b0afu5apg
 接口地址：
 
 
-https://cdn.jsdelivr.net/gh/cniop/cniop.github.io@main/cat.json
+https://cdn.jsdelivr.net/gh/cniop/cniop.github.io@main/cat
 
-https://raw.fastgit.org/cniop/cniop.github.io/main/cat.json
+https://raw.fastgit.org/cniop/cniop.github.io/main/cat
 
-
-http://gg.gg/catvodd  (好记)
-
-http://gg.gg/catuio   （输入较方便）
-
-https://cniop.github.io/cat.json  (永久)
+https://cniop.github.io/cat
 
 官方维护的源供参考:
 
@@ -82,7 +77,6 @@ https://cniop.github.io/cat.json  (永久)
 修复了南府追剧源
 https://c1n.cn/2
 
-http://gg.gg/898900
 
 # Cn.m3u
 
