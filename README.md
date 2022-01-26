@@ -27,7 +27,7 @@ http://gg.gg/fastdiy
 http://gg.gg/ggdiy
 
 # EGP节目清单
-DIYP EGP接口1（推荐）：
+### DIYP EGP接口1（推荐）：
 
 http://gg.gg/diypegp  （好记）
 
@@ -43,13 +43,13 @@ https://epg.112114.xyz/status
 
 https://epg.112114.xyz/alias
 
-DIYP EGP接口2：
+### DIYP EGP接口2：
 
 http://gg.gg/113112
 
 http://epg.51zmt.top:8000/api/diyp/ 
 
-DIYP EGP接口3：
+### DIYP EGP接口3：
 
 https://epg.sec.st/epg.php
 
