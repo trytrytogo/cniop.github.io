@@ -53,6 +53,7 @@ BRTV卡酷,http://iptv.tvfix.org/hls/btv10hd.m3u8#http://39.130.202.81:6610/gitv
 广西卫视,http://39.130.202.76:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225518/index.m3u8#http://iptv.tvfix.org/hls/gxhd.m3u8#http://39.130.202.81:6610/gitv_live/GXWS/GXWS.m3u8
 贵州卫视,http://39.130.202.76:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8#http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8#http://iptv.tvfix.org/hls/gzhd.m3u8#http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225796/index.m3u8#http://39.130.202.81:6610/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8#http://39.130.202.81:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
 河南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228221/index.m3u8#http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8#http://iptv.tvfix.org/hls/hnhd.m3u8#http://39.130.202.81:6610/gitv_live/HENAN/HENAN.m3u8
+河南梨园,http://player.521fanli.cn:80/1691/henan/henanm3u8.php?id=liyuan
 湖北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225566/index.m3u8#http://iptv.tvfix.org/hls/hbhd.m3u8#http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8#http://39.130.202.81:6610/gitv_live/G_HUBEI/G_HUBEI.m3u8#http://39.130.202.81:6610/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
 江西卫视,http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225591/index.m3u8#http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8#http://iptv.tvfix.org/hls/jxhd.m3u8#http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8#http://39.130.202.81:6610/gitv_live/JXWS/JXWS.m3u8#http://39.130.202.81:6610/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
 辽宁卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228162/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225593/index.m3u8#http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8#http://iptv.tvfix.org/hls/lnhd.m3u8#http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8#http://39.130.202.81:6610/gitv_live/LNWS/LNWS.m3u8#http://39.130.202.81:6610/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8
@@ -63,7 +64,7 @@ CETV-1,http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8#http://ipt
 CETV-2,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225850/index.m3u8#http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227607/index.m3u8#http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8#http://39.130.202.81:6610/gitv_live/G_CETV-2/G_CETV-2.m3u8
 CETV-3,http://223.110.246.68/ott.js.chinamobile.com/PLTV/3/224/3221227018/index.m3u8#http://iptv.tvfix.org/hls/cetv3.m3u8#http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
 CETV-4,http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227657/index.m3u8#http://iptv.tvfix.org/hls/cetv4.m3u8#http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8#http://39.130.202.81:6610/gitv_live/G_CETV-4/G_CETV-4.m3u8
-斗鱼车评,http://tx2play1.douyucdn.cn/live/321987r8e6tCsPR_4000.xs
+
 吉林卫视,http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8#http://iptv.tvfix.org/hls/jlhd.m3u8#http://39.130.202.81:6610/gitv_live/G_JILIN/G_JILIN.m3u8
 云南卫视,http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8#http://iptv.tvfix.org/hls/yntv.m3u8#http://39.130.202.81:6610/gitv_live/G_YUNNAN/G_YUNNAN.m3u8#http://39.130.202.81:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 陕西卫视,http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://iptv.tvfix.org/hls/sxtv.m3u8#http://39.130.202.81:6610/gitv_live/G_SHANXI/G_SHANXI.m3u8
@@ -71,7 +72,7 @@ CETV-4,http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227657/index
 海南卫视,http://iptv.tvfix.org/hls/lyhd.m3u8#http://39.130.202.81:6610/gitv_live/LYWS/LYWS.m3u8
 甘肃卫视,http://iptv.tvfix.org/hls/gstv.m3u8#http://39.130.202.81:6610/gitv_live/G_GANSU/G_GANSU.m3u8
 內蒙古卫视,http://iptv.tvfix.org/hls/nmtv.m3u8
-寧夏卫视,http://iptv.tvfix.org/hls/nxtv.m3u8
+宁夏卫视,http://iptv.tvfix.org/hls/nxtv.m3u8#http://39.130.202.81:6610/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
 山西卫视,http://iptv.tvfix.org/hls/sxrtv.m3u8#http://39.130.202.81:6610/gitv_live/SXWS/SXWS.m3u8
 新疆卫视,http://iptv.tvfix.org/hls/xjtv.m3u8#http://39.130.202.81:6610/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
 兵团卫视,http://iptv.tvfix.org/hls/bttv.m3u8#http://39.130.202.81:6610/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8
@@ -89,7 +90,6 @@ CGTN俄语,http://117.148.179.179/PLTV/88888888/224/3221231591/index.m3u8
 康巴卫视,http://39.130.202.81:6610/gitv_live/G_KANGBA/G_KANGBA.m3u8
 南方卫视,http://39.130.202.81:6610/gitv_live/G_NANFANG/G_NANFANG.m3u8
 内蒙古卫视,http://39.130.202.81:6610/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
-宁夏卫视,http://39.130.202.81:6610/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
 农林卫视,http://39.130.202.81:6610/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
 三沙卫视,http://39.130.202.81:6610/gitv_live/G_SANSHA/G_SANSHA.m3u8
 西藏卫视,http://39.130.202.81:6610/gitv_live/G_XIZANG/G_XIZANG.m3u8
