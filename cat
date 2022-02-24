@@ -145,7 +145,7 @@
     ],
     "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"
     ],
-    "spider":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
+    "spider":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar;md5;39d92731df5e9a05846abbe3fb3bd99d",
     "ijk":[
         {"group":"软解码","options":[
                 {"category":4,"name":"opensles","value":"0"},
