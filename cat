@@ -95,8 +95,7 @@
         {"key":"csp_appysv2_影阅阁","name":"影阅阁(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"影阅阁###https://sharertv.coding.net/p/mao/d/mao/git/raw/master/ext/appys.json"},
         {"key":"csp_appysv2_追剧吧","name":"追剧吧(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"追剧吧###https://sharertv.coding.net/p/mao/d/mao/git/raw/master/ext/appys.json"}
     ],
-    "lives":
-    ],
+    "lives":[],
     "parses":[
         {"name":"Json并发","type":2,"url":"Parallel"},
         {"name":"Json轮询","type":2,"url":"Sequence"},
