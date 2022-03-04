@@ -4,6 +4,8 @@
 
 http://gg.gg/fastdiy
 
+https://cdn.jsdelivr.net/gh/cniop/cniop.github.io@main/diy
+
 备用接口：
 
 http://gg.gg/ggdiy
@@ -38,7 +40,7 @@ https://epg.sec.st/epg.php
 # 猫影视TV
 
 
-更新2.0.8正式版
+更新2.0.9正式版
 
 增加WebDav协议配置地址支持
 
@@ -56,7 +58,7 @@ IJK内核优化，增加M2音频格式支持
 
 自定义爬虫增加外挂字幕支持
 
-软件下载2.0.8正式版本
+软件下载2.0.9正式版本
 
 https://sharerw.lanzoux.com/b0afu5apg
 
