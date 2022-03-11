@@ -37,6 +37,9 @@ http://epg.51zmt.top:8000/api/diyp/
 
 https://epg.sec.st/epg.php
 
+### DIYP EGP接口4：
+https://epg.hicloud.co/epg.php
+
 # 猫影视TV
 
 
