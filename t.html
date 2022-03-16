@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>js</title>
+	<script type="text/javascript">
+		function GetQueryString(name)
+{
+     var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+     var r = window.location.search.substr(1).match(reg);
+     if(r!=null)return  unescape(r[2]); return 1;
+}
+
+var arr={
+	"1":"http://qd130.txdirect-corp-hls.huya.com/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.m3u8",
+	"2":"https://hw.flv.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.m3u8"
+};
+		location.href=arr[GetQueryString("id")];
+	</script>
+</head>
+<body>
+
+</body>
+</html>
