@@ -106,6 +106,14 @@ https://sharerw.lanzoux.com/b0afu5apg
 
 https://c1n.cn/2
 
+自维护接口地址:
+
+http://bit.do/gcat
+
+国内配置接口 👉 https://maoys.c1n.cn 👈
+
+海外配置接口 👉 http://bit.do/maoys 👈
+
 
 # Cn.m3u
 
