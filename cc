@@ -276,5 +276,5 @@
   ],
 
 
-  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;e9b45aaca137c83a784e05fbde87b2cc"
+  "wallpaper":"https://cdn.jsdelivr.net/gh/cniop/cniop.github.io@main/p/2.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;e9b45aaca137c83a784e05fbde87b2cc"
 }
