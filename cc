@@ -1,4 +1,4 @@
-{"tag":"https://github.com/Tangsan99999/Tangsan99999.github.io/blob/master/maoys.json",
+{"tag":"https://github.com/Tangsan99999/Tangsan99999.github.io/blob/master/maoys.json,https://maoys.c1n.cn",
 "sites":[
   {"key":"libvo_type4","name":"Libvio(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/2304188638","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"mudvod_type4","name":"泥巴(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/7405350460","searchable":1,"quickSearch":1,"filterable":1},
